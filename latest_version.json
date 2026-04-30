@@ -8,9 +8,9 @@
         "is_critical": false
     },
     "et_pc_server": {
-        "version": "2026.04.26.1052",
-        "url": "https://github.com/eduran10/et_pc_dist/releases/download/2026.04.26.1052/et-pc-server_2026.04.26.1052_amd64.deb",
-        "hash": "a97d5549e9ad81fe17159ed02c68774ad5d266c72f8d9a0b5a9c371fe85d902b",
+        "version": "2026.04.30.0952",
+        "url": "https://github.com/eduran10/et_pc_dist/releases/download/2026.04.30.0952/et-pc-server_2026.04.30.0952_amd64.deb",
+        "hash": "7052842df2a86193c64b2a1965c74a0ef78845c34291dcdc54bc7d6d761026cf",
         "protocol": 2,
         "changelog": [],
         "is_critical": false
