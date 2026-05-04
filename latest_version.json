@@ -1,8 +1,8 @@
 {
     "et_pc_client": {
-        "version": "2026.05.04.0932",
-        "url": "https://github.com/eduran10/et_pc_dist/releases/download/2026.05.04.0932/et-pc-client_2026.05.04.0932_amd64.deb",
-        "hash": "d6c2bb7c638262b0a9e10e4006253f7d479a8ccbb7b2ae6c7565e43fed8392fc",
+        "version": "2026.05.04.1042",
+        "url": "https://github.com/eduran10/et_pc_dist/releases/download/2026.05.04.1042/et-pc-client_2026.05.04.1042_amd64.deb",
+        "hash": "8ab1f743c059901af285266e85757d775a16c625b5c2730ac9b50067c68c6016",
         "protocol": 2,
         "changelog": [],
         "is_critical": false
