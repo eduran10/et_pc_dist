@@ -1,20 +1,21 @@
 {
     "et_pc_client": {
-        "version": "2026.05.06.0613",
-        "url": "https://github.com/eduran10/et_pc_dist/releases/download/2026.05.06.0613/et-pc-client_2026.05.06.0613_amd64.deb",
-        "hash": "c7d159852ff24f08b617370a613dd8da89a42c48a08043870cb36014043984d1",
+        "version": "2026.05.09.1334",
+        "url": "https://github.com/eduran10/et_pc_dist/releases/download/2026.05.09.1334/et-pc-client_2026.05.09.1334_amd64.deb",
+        "hash": "4ce45f26d085083e6fe35d0c745494e743b72f519ad4a65d23ae397487a2b0c6",
         "protocol": 2,
         "changelog": [],
         "is_critical": false
     },
     "et_pc_server": {
-        "version": "2026.05.06.0538",
-        "url": "https://github.com/eduran10/et_pc_dist/releases/download/2026.05.06.0538/et-pc-server_2026.05.06.0538_amd64.deb",
-        "hash": "ad09bc7f6c39d569ca3ff2c0c6f8042c3916c9cdbd1a7d039fa22e5f374b0df5",
+        "version": "2026.05.09.1337",
+        "url": "https://github.com/eduran10/et_pc_dist/releases/download/2026.05.09.1337/et-pc-server_2026.05.09.1337_amd64.deb",
+        "hash": "34018fb0bf36f8cd3daab8d4800c803d2f39ff16162aef3f57c94a86850426ce",
         "protocol": 2,
         "changelog": [],
         "is_critical": false
     }
+
 
 
 }
